@@ -14,7 +14,7 @@ train: ../images/ # 128 images
 val: ../images/  # 128 images
 
 # number of classes
-nc: 3
+nc: 4
 
 # class names
 names: ['deciduous_trees_leaf','sings','sands','waste']
