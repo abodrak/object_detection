@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>waste_22_jpeg.rf.5d2b2b77e7a7644a20c441dff21d5dfa.jpg</filename>
+	<path>waste_22_jpeg.rf.5d2b2b77e7a7644a20c441dff21d5dfa.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>391</xmin>
+			<xmax>408</xmax>
+			<ymin>155</ymin>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
